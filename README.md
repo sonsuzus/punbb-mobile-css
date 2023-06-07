@@ -1,5 +1,4 @@
 # punbb-mobile-css
-punbb forum mobile css added
 
 Designed for mobile phone and tablet. Big fonts, bootstrap and relative mobile design.
 
